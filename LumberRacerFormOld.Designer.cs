@@ -223,7 +223,7 @@
             0});
             this.numericUpDownRequiredScore.Location = new System.Drawing.Point(12, 183);
             this.numericUpDownRequiredScore.Maximum = new decimal(new int[] {
-            400,
+            1000,
             0,
             0,
             0});
